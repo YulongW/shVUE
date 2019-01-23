@@ -1,13 +1,13 @@
 <template>
-  <Home></Home>
+  <Chat></Chat>
 </template>
 
 <script>
-import Home from "@/components/home/Home";
+import Chat from "@/components/chat/Chat";
 
 export default {
   components: {
-    Home
+    Chat
   }
 };
 </script>
